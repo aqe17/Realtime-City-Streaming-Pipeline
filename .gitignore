@@ -1,0 +1,5 @@
+# Prevent sensitive files from being uploaded
+.secrets
+.env
+*.pem
+*.key
